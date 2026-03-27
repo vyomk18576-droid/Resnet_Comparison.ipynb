@@ -1,5 +1,5 @@
 # Resnet Comparison
-## Here we compare the changes in output observed for different resnet architecture and learning rate changes
+## Here we compare the changes in output observed for different resnet architectures and learning rate change from 1e-3 to 1e-4
 
 # Dataset
 ## Source : Intel Image Classification Dataset(via Kaggle)
