@@ -1,4 +1,4 @@
-# Resnet_Comparison.ipynb
+# Resnet Comparison
 ## Here we compare the changes in output observed for different resnet architecture and learning rate changes
 
 # Dataset
